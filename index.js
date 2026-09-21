@@ -217,5 +217,6 @@ client.on('messageCreate', async (message) => {
 // ==========================================
 // 3. تسجيل الدخول بالتوكن
 // ==========================================
-const TOKEN = process.env.TOKEN || 'ضع_التوكن_هنا';
+const const TOKEN = process.env.TOKEN || MTU1MTQ2MjY1MTI2NjA3NjY5Mg.GnOLue.AO_rU_-Me_ptrclmIj_iJ7nme6g-TVgvkAmg3c
 client.login(TOKEN);
+
